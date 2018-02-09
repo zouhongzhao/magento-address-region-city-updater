@@ -1,2 +1,2 @@
 # magento-address-region-city-updater
-magento 省市邮编联动插件
+magento1.x 省市邮编自动联动插件
